@@ -58,7 +58,6 @@ student-scores-analysis/
 │   └── fig5_qq_plots.pdf/.png
 ├── report/
 │   ├── report_final.pdf         # submitted report
-│   └── report_final.tex         # LaTeX source
 ├── requirements.txt
 └── README.md
 ```
